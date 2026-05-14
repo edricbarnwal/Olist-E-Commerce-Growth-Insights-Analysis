@@ -1,5 +1,3 @@
-
-
 # OLIST E-COMMERCE DATA ANALYTICS
 
 > **STATUS**: Active
